@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StudioDroid</string>
+    <string name="tagline_welcome">Mobile Android IDE &amp; Live Compose Workbench</string>
+    <string name="action_new_project">New Project</string>
+    <string name="action_open_project">Open</string>
+    <string name="action_run_app">Run app</string>
+    <string name="action_build_project">Make Project</string>
+    <string name="action_share_file">Share File</string>
+    <string name="tab_project">Project</string>
+    <string name="tab_build">Build</string>
+    <string name="tab_logcat">Logcat</string>
+    <string name="tab_problems">Problems</string>
+    <string name="tab_terminal">Terminal</string>
+    <string name="empty_projects_title">No Android Projects Yet</string>
+    <string name="empty_projects_subtitle">Create a Kotlin Compose or XML app from a template to start coding.</string>
+</resources>

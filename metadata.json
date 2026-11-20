@@ -1,0 +1,6 @@
+{
+  "name": "StudioDroid",
+  "description": "Mobile Android Studio IDE with Kotlin & XML syntax editor, project explorer, live Compose preview, Gradle build simulator, and Logcat console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
